@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gui.menuBar.pmedit",
+    "description": "Text for uploading edits for projects on ElectraMod",
+    "defaultMessage": "Upload Edits"
+  },
+  {
+    "id": "gui.menuBar.remix",
+    "description": "Menu bar item for remixing",
+    "defaultMessage": "Remix"
+  },
+  {
+    "id": "gui.menuBar.pmshare",
+    "description": "Label for project share button",
+    "defaultMessage": "Upload"
+  }
+]

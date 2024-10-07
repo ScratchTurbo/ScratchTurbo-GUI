@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pm.gui.filesTab.fileUploadExternal",
+    "description": "Button to upload file in the editor tab",
+    "defaultMessage": "Upload File"
+  },
+  {
+    "id": "pm.gui.filesTab.fileNew",
+    "description": "Button to create a new file in the editor tab",
+    "defaultMessage": "New File"
+  }
+]

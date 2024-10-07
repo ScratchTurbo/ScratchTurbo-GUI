@@ -1,0 +1,212 @@
+[
+  {
+    "id": "gui.extension.music.name",
+    "description": "Name for the 'Music' extension",
+    "defaultMessage": "Music"
+  },
+  {
+    "id": "gui.extension.music.description",
+    "description": "Description for the 'Music' extension",
+    "defaultMessage": "Play instruments and drums."
+  },
+  {
+    "id": "gui.extension.pen.name",
+    "description": "Name for the 'Pen' extension",
+    "defaultMessage": "Pen"
+  },
+  {
+    "id": "gui.extension.pen.description",
+    "description": "Description for the 'Pen' extension",
+    "defaultMessage": "Draw with your sprites."
+  },
+  {
+    "id": "gui.extension.videosensing.name",
+    "description": "Name for the 'Video Sensing' extension",
+    "defaultMessage": "Video Sensing"
+  },
+  {
+    "id": "gui.extension.videosensing.description",
+    "description": "Description for the 'Video Sensing' extension",
+    "defaultMessage": "Sense motion with the camera."
+  },
+  {
+    "id": "gui.extension.text2speech.name",
+    "description": "Name for the Text to Speech extension",
+    "defaultMessage": "Text to Speech"
+  },
+  {
+    "id": "gui.extension.text2speech.description",
+    "description": "Description for the Text to speech extension",
+    "defaultMessage": "Make your projects talk."
+  },
+  {
+    "id": "gui.extension.translate.name",
+    "description": "Name for the Translate extension",
+    "defaultMessage": "Translate"
+  },
+  {
+    "id": "gui.extension.translate.description",
+    "description": "Description for the Translate extension",
+    "defaultMessage": "Translate text into many languages."
+  },
+  {
+    "id": "gui.extension.makeymakey.description",
+    "description": "Description for the 'Makey Makey' extension",
+    "defaultMessage": "Make anything into a key."
+  },
+  {
+    "id": "pm.extension.camera.description",
+    "description": "The description for the PenguinMod Camera extension.",
+    "defaultMessage": "Allows the camera to move around anywhere on the stage."
+  },
+  {
+    "id": "jwProto.jwProtoExtension.name",
+    "description": "Name of Proto extension",
+    "defaultMessage": "Labels"
+  },
+  {
+    "id": "jwProto.jwProtoExtension.description",
+    "description": "Description of Proto extension",
+    "defaultMessage": "Labelling and Placeholders."
+  },
+  {
+    "id": "iygPerlin.iygPerlinExtension.name",
+    "description": "Name of perlin noise extension",
+    "defaultMessage": "Perlin Noise"
+  },
+  {
+    "id": "iygPerlin.iygPerlinExtension.description",
+    "description": "Description of perlin noise extension",
+    "defaultMessage": "Blocks for generating and using Perlin noise. Good for generating terrain, clouds, and other things."
+  },
+  {
+    "id": "GamepadExtension.GamepadExtension.description",
+    "description": "Description for the 'GamePad' extension",
+    "defaultMessage": "Directly access gamepads instead of just mapping buttons to keys."
+  },
+  {
+    "id": "gui.extension.pointerlock.description",
+    "description": "Scratch utilities",
+    "defaultMessage": "A extension to lock the mouse cursor in the stage."
+  },
+  {
+    "id": "gui.extension.MouseCursor.description",
+    "description": "Scratch utilities",
+    "defaultMessage": "A extension to change what the mouse cursor looks like on the stage."
+  },
+  {
+    "id": "gui.extension.microbit.description",
+    "description": "Description for the 'micro:bit' extension",
+    "defaultMessage": "Connect your projects with the world."
+  },
+  {
+    "id": "gui.extension.microbit.connectingMessage",
+    "description": "Message to help people connect to their micro:bit.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.ev3.description",
+    "description": "Description for the 'LEGO MINDSTORMS EV3' extension",
+    "defaultMessage": "Build interactive robots and more."
+  },
+  {
+    "id": "gui.extension.ev3.connectingMessage",
+    "description": "Message to help people connect to their EV3. Must note the PIN should be 1234.",
+    "defaultMessage": "Connecting. Make sure the pin on your EV3 is set to 1234."
+  },
+  {
+    "id": "gui.extension.boost.description",
+    "description": "Description for the 'LEGO BOOST' extension",
+    "defaultMessage": "Bring robotic creations to life."
+  },
+  {
+    "id": "gui.extension.boost.connectingMessage",
+    "description": "Message to help people connect to their BOOST.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.wedo2.description",
+    "description": "Description for the 'LEGO WeDo 2.0' extension",
+    "defaultMessage": "Build with motors and sensors."
+  },
+  {
+    "id": "gui.extension.wedo2.connectingMessage",
+    "description": "Message to help people connect to their WeDo.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.extension.gdxfor.description",
+    "description": "Description for the Vernier Go Direct Force and Acceleration sensor extension",
+    "defaultMessage": "Sense push, pull, motion, and spin."
+  },
+  {
+    "id": "gui.extension.gdxfor.connectingMessage",
+    "description": "Message to help people connect to their force and acceleration sensor.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "pm.extraLibraryExtensions.name",
+    "description": "Name of library item to open the Extra Extensions gallery",
+    "defaultMessage": "PenguinMod Extra Extensions"
+  },
+  {
+    "id": "pm.extraLibraryExtensions.description",
+    "description": "Description of library item to open the Extra Extensions gallery",
+    "defaultMessage": "See some user-submitted extensions. Opens in a new tab."
+  },
+  {
+    "id": "tw.extensionGallery.name",
+    "description": "Name of extensions.turbowarp.org in extension library",
+    "defaultMessage": "TurboWarp Extension Gallery"
+  },
+  {
+    "id": "tw.extensionGallery.description",
+    "description": "Description of extensions.turbowarp.org in extension library",
+    "defaultMessage": "We list many TurboWarp extensions here for convenience, but you can find even more on extensions.turbowarp.org."
+  },
+  {
+    "id": "tw.customExtension.name",
+    "description": "Name of library item to load a custom extension from a remote source",
+    "defaultMessage": "Custom Extension"
+  },
+  {
+    "id": "tw.customExtension.description",
+    "description": "Description of library item to load a custom extension from a custom source",
+    "defaultMessage": "Load custom extensions from URLs, files, or JavaScript source code."
+  },
+  {
+    "id": "canvas.name",
+    "description": "Name of Text extension",
+    "defaultMessage": "HTML Canvas"
+  },
+  {
+    "id": "text.description",
+    "description": "Description of Text extension",
+    "defaultMessage": "Extra drawing tools using an HTML Canvas. Works well when used with other extensions."
+  },
+  {
+    "id": "tw.twExtension.name",
+    "description": "Name of TW extension",
+    "defaultMessage": "TurboWarp Blocks"
+  },
+  {
+    "id": "jwStructs.jwStructsExtension.name",
+    "description": "Name of OOP extension",
+    "defaultMessage": "OOP"
+  },
+  {
+    "id": "jwStructs.jwStructsExtension.description",
+    "description": "Description of OOP extension",
+    "defaultMessage": "Removed from list. OOP blocks. OOp is a programming paradigm that uses objects and their interactions to design applications and computer programs."
+  },
+  {
+    "id": "jgPathfinding.Pathfinding.name",
+    "description": "Name of Pathfinding extension",
+    "defaultMessage": "Pathfinding"
+  },
+  {
+    "id": "jgPathfinding.Pathfinding.description",
+    "description": "Description of Pathfinding extension",
+    "defaultMessage": "(Unstable and or laggy; Needs further work) Have sprites navigate around obstacles in your game instead of clipping into them."
+  }
+]

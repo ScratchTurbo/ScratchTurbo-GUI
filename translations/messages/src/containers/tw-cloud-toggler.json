@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tw.menuBar.cloudUnavailableAlert",
+    "description": "Message displayed when clicking on the option to toggle cloud variables when cloud variables are not available",
+    "defaultMessage": "Cannot use cloud variables, most likely because you opened the editor."
+  },
+  {
+    "id": "tw.menuBar.cloudUnavailableDesktop",
+    "description": "Message displayed when clicking on the option to toggle cloud variables in desktop app",
+    "defaultMessage": "Cannot use cloud variables in desktop app."
+  }
+]

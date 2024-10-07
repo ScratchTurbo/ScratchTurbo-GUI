@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gui.controls.go",
+    "description": "Green flag button title",
+    "defaultMessage": "Go"
+  },
+  {
+    "id": "gui.controls.pause",
+    "description": "Pause button title",
+    "defaultMessage": "Pause"
+  },
+  {
+    "id": "gui.controls.stop",
+    "description": "Stop button title",
+    "defaultMessage": "Stop"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gui.extensionLibrary.comingSoon",
+    "description": "Label for extensions that are not yet implemented",
+    "defaultMessage": "Coming Soon"
+  },
+  {
+    "id": "pm.extensionLibrary.customLibraryExtensionUnsandboxed",
+    "description": "Label for custom library extensions that are unsandboxed (not safe)",
+    "defaultMessage": "Custom Unsandboxed extension"
+  },
+  {
+    "id": "pm.extensionLibrary.customLibraryExtensionSandboxed",
+    "description": "Label for custom library extensions that are sandboxed",
+    "defaultMessage": "Custom Sandboxed extension"
+  },
+  {
+    "id": "pm.extensionLibrary.customLibraryExtensionWebsite",
+    "description": "Label for custom library extensions that are added from a URL",
+    "defaultMessage": "Added from a website"
+  },
+  {
+    "id": "pm.extensionLibrary.customLibraryExtensionTextOrFile",
+    "description": "Label for custom library extensions that are added from text or a file",
+    "defaultMessage": "Loaded from Text / File"
+  },
+  {
+    "id": "gui.extensionLibrary.requires",
+    "description": "Label for extension hardware requirements",
+    "defaultMessage": "Requires"
+  },
+  {
+    "id": "gui.extensionLibrary.collaboration",
+    "description": "Label for extension collaboration",
+    "defaultMessage": "Collaboration with"
+  }
+]

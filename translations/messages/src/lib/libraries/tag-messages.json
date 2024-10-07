@@ -1,0 +1,237 @@
+[
+  {
+    "id": "gui.libraryTags.all",
+    "description": "Tag for filtering a library for everything",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "gui.libraryTags.animals",
+    "description": "Tag for filtering a library for animals",
+    "defaultMessage": "Animals"
+  },
+  {
+    "id": "gui.libraryTags.dance",
+    "description": "Tag for filtering a library for dance",
+    "defaultMessage": "Dance"
+  },
+  {
+    "id": "gui.libraryTags.effects",
+    "description": "Tag for filtering a library for effects",
+    "defaultMessage": "Effects"
+  },
+  {
+    "id": "gui.libraryTags.fantasy",
+    "description": "Tag for filtering a library for fantasy",
+    "defaultMessage": "Fantasy"
+  },
+  {
+    "id": "gui.libraryTags.fashion",
+    "description": "Tag for filtering a library for fashion",
+    "defaultMessage": "Fashion"
+  },
+  {
+    "id": "gui.libraryTags.food",
+    "description": "Tag for filtering a library for food",
+    "defaultMessage": "Food"
+  },
+  {
+    "id": "gui.libraryTags.indoors",
+    "description": "Tag for filtering a library for indoors",
+    "defaultMessage": "Indoors"
+  },
+  {
+    "id": "gui.libraryTags.loops",
+    "description": "Tag for filtering a library for loops",
+    "defaultMessage": "Loops"
+  },
+  {
+    "id": "gui.libraryTags.themes",
+    "description": "Tag for filtering a library for Themes",
+    "defaultMessage": "Themes"
+  },
+  {
+    "id": "gui.libraryTags.music",
+    "description": "Tag for filtering a library for music",
+    "defaultMessage": "Music"
+  },
+  {
+    "id": "gui.libraryTags.notes",
+    "description": "Tag for filtering a library for notes",
+    "defaultMessage": "Notes"
+  },
+  {
+    "id": "gui.libraryTags.outdoors",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Outdoors"
+  },
+  {
+    "id": "gui.libraryTags.patterns",
+    "description": "Tag for filtering a library for patterns",
+    "defaultMessage": "Patterns"
+  },
+  {
+    "id": "gui.libraryTags.people",
+    "description": "Tag for filtering a library for people",
+    "defaultMessage": "People"
+  },
+  {
+    "id": "gui.libraryTags.percussion",
+    "description": "Tag for filtering a library for percussion",
+    "defaultMessage": "Percussion"
+  },
+  {
+    "id": "gui.libraryTags.space",
+    "description": "Tag for filtering a library for space",
+    "defaultMessage": "Space"
+  },
+  {
+    "id": "gui.libraryTags.sports",
+    "description": "Tag for filtering a library for sports",
+    "defaultMessage": "Sports"
+  },
+  {
+    "id": "gui.libraryTags.underwater",
+    "description": "Tag for filtering a library for underwater",
+    "defaultMessage": "Underwater"
+  },
+  {
+    "id": "gui.libraryTags.voice",
+    "description": "Tag for filtering a library for voice",
+    "defaultMessage": "Voice"
+  },
+  {
+    "id": "gui.libraryTags.wacky",
+    "description": "Tag for filtering a library for wacky",
+    "defaultMessage": "Wacky"
+  },
+  {
+    "id": "gui.libraryTags.animation",
+    "description": "Tag for filtering a library for animation",
+    "defaultMessage": "Animation"
+  },
+  {
+    "id": "gui.libraryTags.art",
+    "description": "Tag for filtering a library for art",
+    "defaultMessage": "Art"
+  },
+  {
+    "id": "gui.libraryTags.games",
+    "description": "Tag for filtering a library for games",
+    "defaultMessage": "Games"
+  },
+  {
+    "id": "gui.libraryTags.stories",
+    "description": "Tag for filtering a library for stories",
+    "defaultMessage": "Stories"
+  },
+  {
+    "id": "gui.libraryTags.letters",
+    "description": "Tag for filtering a library for letters",
+    "defaultMessage": "Letters"
+  },
+  {
+    "id": "gui.libraryTags.swords",
+    "description": "Tag for filtering a library for swords",
+    "defaultMessage": "Swords"
+  },
+  {
+    "id": "gui.libraryTags.guns",
+    "description": "Tag for filtering a library for guns",
+    "defaultMessage": "Guns"
+  },
+  {
+    "id": "gui.libraryTags.electramod",
+    "description": "Tag for filtering a library by ElectraMod",
+    "defaultMessage": "ElectraMod"
+  },
+  {
+    "id": "gui.libraryTags.othermod",
+    "description": "Tag for filtering a library by another scartch mod like Gandi IDE, DinosaurMod etc..",
+    "defaultMessage": "Another Scratch Mod"
+  },
+  {
+    "id": "gui.libraryTags.snailide",
+    "description": "Tag for filtering a library by Snail IDE",
+    "defaultMessage": "Snail IDE"
+  },
+  {
+    "id": "gui.libraryTags.penguinmod",
+    "description": "Tag for filtering a library by PenguinMod",
+    "defaultMessage": "PenguinMod"
+  },
+  {
+    "id": "gui.libraryTags.scratch",
+    "description": "Tag for filtering a library by Scratch",
+    "defaultMessage": "Scratch"
+  },
+  {
+    "id": "gui.libraryTags.turbowarp",
+    "description": "Tag for filtering a library by TurboWarp",
+    "defaultMessage": "TurboWarp"
+  },
+  {
+    "id": "gui.libraryTags.programminglanguage",
+    "description": "Tag for filtering a library by programminglanguage",
+    "defaultMessage": "Programming Languages"
+  },
+  {
+    "id": "gui.libraryTags.categoryexpansion",
+    "description": "Tag for filtering a library by categoryexpansion",
+    "defaultMessage": "Category Expansions"
+  },
+  {
+    "id": "gui.libraryTags.deskutil",
+    "description": "Tag for filtering a library by deskutil",
+    "defaultMessage": "Desktop Utility"
+  },
+  {
+    "id": "gui.libraryTags.ui",
+    "description": "Tag for filtering a library by ui",
+    "defaultMessage": "UI"
+  },
+  {
+    "id": "gui.libraryTags.footsteps",
+    "description": "Tag for filtering a library by footsteps",
+    "defaultMessage": "Footsteps"
+  },
+  {
+    "id": "gui.libraryTags.custom",
+    "description": "Tag for filtering a library by custom. Usually this is a custom button, not an actual tag",
+    "defaultMessage": "Custom"
+  },
+  {
+    "id": "gui.libraryTags.customextension",
+    "description": "Button that loads a custom extension.",
+    "defaultMessage": "Load Custom Extension"
+  },
+  {
+    "id": "gui.libraryTags.hardware",
+    "description": "Tag for filtering a library by hardware.",
+    "defaultMessage": "Hardware"
+  },
+  {
+    "id": "gui.libraryTags.library",
+    "description": "Tag for filtering a library by extension collections.",
+    "defaultMessage": "Collections"
+  },
+  {
+    "id": "gui.libraryTags.extcreate",
+    "description": "Tag for finding all extension creator programs / website",
+    "defaultMessage": "Extension Creators"
+  },
+  {
+    "id": "gui.libraryTags.datamgmt",
+    "description": "Tag for filtering a library by data management",
+    "defaultMessage": "Data Management"
+  },
+  {
+    "id": "gui.libraryTags.graphics",
+    "description": "Tag for filtering a library by graphics.",
+    "defaultMessage": "Graphics"
+  },
+  {
+    "id": "gui.libraryTags.noisemaker",
+    "description": "Tag for filtering a library by their relation to sound.",
+    "defaultMessage": "Sound"
+  }
+]

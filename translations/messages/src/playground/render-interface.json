@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pm.guiDefaultTitle",
+    "description": "Title of homepage",
+    "defaultMessage": "Editor"
+  },
+  {
+    "id": "tw.footer.disclaimer",
+    "description": "Disclaimer that ElectraMod, PenguinMod and TurboWarp are not connected to Scratch",
+    "defaultMessage": "ElectraMod, PenguinMod and TurboWarp are not affiliated with Scratch, the Scratch Team, or the Scratch Foundation."
+  },
+  {
+    "id": "tw.footer.credits",
+    "description": "Credits link in footer",
+    "defaultMessage": "Credits"
+  },
+  {
+    "id": "tw.footer.donate",
+    "description": "Donation link in footer",
+    "defaultMessage": "Donate"
+  },
+  {
+    "id": "tw.footer.embed",
+    "description": "Link in footer to embedding documentation for embedding link",
+    "defaultMessage": "Embedding"
+  },
+  {
+    "id": "tw.footer.parameters",
+    "description": "Link in footer to URL parameters documentation",
+    "defaultMessage": "URL Parameters"
+  },
+  {
+    "id": "tw.footer.documentation",
+    "description": "Link in footer to additional documentation",
+    "defaultMessage": "Documentation"
+  },
+  {
+    "id": "pm.terms",
+    "description": "Link to Terms of Service",
+    "defaultMessage": "Terms of Service"
+  },
+  {
+    "id": "tw.privacy",
+    "description": "Link to privacy policy",
+    "defaultMessage": "Privacy Policy"
+  },
+  {
+    "id": "tw.feedback",
+    "description": "Link to feedback/bugs page",
+    "defaultMessage": "Feedback & Bugs"
+  },
+  {
+    "id": "tw.code",
+    "description": "Link to source code",
+    "defaultMessage": "Source Code"
+  }
+]

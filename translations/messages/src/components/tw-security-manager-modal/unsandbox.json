@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pm.unsandbox.title",
+    "description": "Part of modal that appears when a project tries to unsandbox an extension",
+    "defaultMessage": "The project is asking to unsandbox the {EXT_NAME} extension."
+  },
+  {
+    "id": "tw.loadExtension.unsandboxedWarning",
+    "description": "Part of modal asking for permission to automatically load custom extension",
+    "defaultMessage": "Loading extensions without the sandbox is dangerous. It will be able to corrupt your project, delete your settings, phish for passwords, and other bad things. The {APP_NAME} developers are not responsible for any resulting issues."
+  }
+]

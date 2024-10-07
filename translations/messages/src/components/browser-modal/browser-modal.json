@@ -1,0 +1,31 @@
+[
+  {
+    "id": "gui.unsupportedBrowser.label",
+    "defaultMessage": "Browser is not supported"
+  },
+  {
+    "id": "tw.webglModal.description",
+    "description": "WebGL missing message",
+    "defaultMessage": "Your browser {webGlLink} which is needed for this site to run. Try updating your browser and graphics drivers or restarting your computer."
+  },
+  {
+    "id": "gui.webglModal.webgllink",
+    "description": "link part of your browser does not support WebGL message",
+    "defaultMessage": "does not support WebGL"
+  },
+  {
+    "id": "tw.browserModal.desc",
+    "description": "A message that appears in the browser not supported modal",
+    "defaultMessage": "Make sure you're using a recent version of Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari."
+  },
+  {
+    "id": "tw.lockdownMode",
+    "description": "Part of the browser not supported message. Lockdown Mode refers to https://support.apple.com/en-us/HT212650",
+    "defaultMessage": "On Apple devices, you must disable {lockdownMode}."
+  },
+  {
+    "id": "tw.lockdownMode2",
+    "description": "Links to an Apple support page about Lockdown Mode: https://support.apple.com/en-us/HT212650 Try to translate this the same as Apple.",
+    "defaultMessage": "Lockdown Mode"
+  }
+]

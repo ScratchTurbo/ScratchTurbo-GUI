@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tw.home.instructions",
+    "description": "Header for instructions section of description",
+    "defaultMessage": "Instructions"
+  },
+  {
+    "id": "tw.home.credit",
+    "description": "Header for notes and credits section of description",
+    "defaultMessage": "Notes and Credits"
+  }
+]
